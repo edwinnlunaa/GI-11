@@ -1,0 +1,51 @@
+[
+    {"employeeID": 1, 
+    "name": "Michael Jordan",
+     "salary": 100000, 
+     "department": "Basketball"},
+
+    {"employeeID": 2, 
+    "name": "Serena Williams", 
+    "salary": 300000, 
+    "department": "Tennis"},
+
+    {"employeeID": 3, 
+    "name": "Usain Bolt", 
+    "salary": 500000, 
+    "department": "Track and Field"},
+
+    {"employeeID": 4, 
+    "name": "Lionel Messi", 
+    "salary": 8000000, 
+    "department": "Football"},
+
+    {"employeeID": 5, 
+    "name": "Roger Federer", 
+    "salary": 550000, 
+    "department": "Tennis"},
+
+    {"employeeID": 6, 
+    "name": "LeBron James", 
+    "salary": 2000000, 
+    "department": "Basketball"},
+
+    {"employeeID": 7, 
+    "name": "Cristiano Ronaldo", 
+    "salary": 7200000, 
+    "department": "Football"},
+
+    {"employeeID": 8, 
+    "name": "Tiger Woods", 
+    "salary": 5800000, 
+    "department": "Golf"},
+
+    {"employeeID": 9, 
+    "name": "Muhammad Ali", 
+    "salary": 200000, 
+    "department": "Boxing"},
+
+    {"employeeID": 10, 
+    "name": "Simone Biles", 
+    "salary": 900000, 
+    "department": "Gymnastics"}
+]
